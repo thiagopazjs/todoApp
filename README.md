@@ -25,13 +25,13 @@
 ## Description
 # Projeto criado para listar tarefas, similar quadro Kanban onde usuário poderá setar o tempo das tarefas e marcar como feitas ou não, também pode ser usado como método pomodoro, será implementado alerta sonoro para que o usuário tome conhecimento do tempo em que está trabalhando na tarefa alem do relógio digital em tela.
 
-## Back -end
+# Back -end
 
-# NestJS, Node, Docker
+## NestJS, Node, Docker
 
-## Front -end 
+# Front -end 
 
-# React, Next
+## React, Next
 
 ## Rotas 
 ![image](https://user-images.githubusercontent.com/58366455/164309083-87dca3b0-f1c2-47bd-ad08-646745381572.png)
