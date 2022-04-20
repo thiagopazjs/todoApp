@@ -23,6 +23,26 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+# Projeto criado para listar tarefas, similar quadro Kanban onde usuário poderá setar o tempo das tarefas e marcar como feitas ou não, também pode ser usado como método pomodoro, será implementado alerta sonoro para que o usuário tome conhecimento do tempo em que está trabalhando na tarefa alem do relógio digital em tela.
+
+## Back -end
+
+# NestJS, Node, Docker
+
+## Front -end 
+
+# React, Next
+
+## Rotas 
+![image](https://user-images.githubusercontent.com/58366455/164309083-87dca3b0-f1c2-47bd-ad08-646745381572.png)
+
+# Para  verificar a funcionalidade das rotas Realiza clone do Projeto 
+
+$ npm install
+
+$ npm run start:dev
+
+
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
