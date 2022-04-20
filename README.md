@@ -27,7 +27,7 @@
 
 # Back -end
 
-## NestJS, Node, Docker
+## NestJS, Node, Docker, Swagger para Documentar API, Jest TDD
 
 # Front -end 
 
